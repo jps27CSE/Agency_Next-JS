@@ -29,7 +29,7 @@ const ContactPage = () => {
           <input type="text" placeholder="Email Address" />
           <input type="text" placeholder="Phone Number (Optional)" />
           <textarea
-            name=""
+            name="test"
             id=""
             cols={30}
             rows={10}
