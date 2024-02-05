@@ -17,6 +17,7 @@ const SinglePostPage = () => {
             src="/post.png"
             alt=""
           />
+          {/* for optimizing image  */}
           <div className={styles.detailText}>
             <span className={styles.detailTitle}>Author</span>
             <span className={styles.detailValue}>Terry </span>
